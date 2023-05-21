@@ -1,0 +1,12 @@
+<doctype html>
+<html>
+<head>
+<title> CONTACTS </title>
+<style>
+</head>
+<body>
+ADDRESS: JUMANGPAS SAMBOAN CEBU
+TELEPHONE: 09398542547
+EMAIL ADDRESS: dinopoledin@gmail.com
+SOCIAL ACCOUNT: FB EDWIN DINOPOL
+</body>

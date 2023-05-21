@@ -1,0 +1,8 @@
+<doctype html>
+<html>
+<head>
+<title> HOME</title>
+<body> welcome valued customers </body>
+<p> live, laugh, and enjoy best tasting coffee ever!</p>
+
+
